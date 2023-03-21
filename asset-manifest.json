@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67d9e2bc.css",
+    "main.js": "/static/js/main.c68492b9.js",
+    "static/media/BG.jpg": "/static/media/BG.b0d49a6d708b6d03847a.jpg",
+    "static/media/backgroundnew.png": "/static/media/backgroundnew.b0d49a6d708b6d03847a.png",
+    "static/media/PHOTO1.png": "/static/media/PHOTO1.6675084229851f3445b7.png",
+    "static/media/PHOTO3.png": "/static/media/PHOTO3.a85c13fda433f605fb4c.png",
+    "static/media/PHOTO2.png": "/static/media/PHOTO2.860eedc305bd1c97ab32.png",
+    "static/media/PHOTO4.png": "/static/media/PHOTO4.b6960cb0872025a6a8f9.png",
+    "static/media/TashGym.JPG": "/static/media/TashGym.278116f72292d6ac0ed5.JPG",
+    "static/media/Tash.JPG": "/static/media/Tash.f6b51c654a26adfcdeca.JPG",
+    "static/media/Joseph.JPG": "/static/media/Joseph.0c8d92cd9e87aff087f2.JPG",
+    "static/media/helmi.png": "/static/media/helmi.80e892810861e21ba019.png",
+    "static/media/NATASHASVOICE.png": "/static/media/NATASHASVOICE.851e0d3037b829a691f7.png",
+    "index.html": "/index.html",
+    "main.67d9e2bc.css.map": "/static/css/main.67d9e2bc.css.map",
+    "main.c68492b9.js.map": "/static/js/main.c68492b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67d9e2bc.css",
+    "static/js/main.c68492b9.js"
+  ]
+}
