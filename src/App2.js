@@ -4,6 +4,7 @@ import Home2 from "./components/Home2";
 
 import "./styles/App2.css";
 import Blog from "./components/Story2";
+import Footer2 from "./components/Footer2";
 
 function App2() {
   return (

@@ -5,6 +5,7 @@ import Tash from "../images/Tash.JPG";
 import Joseph from "../images/Joseph.JPG";
 import Helmi from "../images/helmi.png";
 import VideoPlayer from "./VideoPlayer";
+import Footer2 from "./Footer2";
 
 const Blog = () => {
   return (
@@ -98,6 +99,7 @@ const Blog = () => {
           please, in the first instance, email natashasvoice@hotmail.com
         </p>
       </article>
+      <Footer2 />
     </>
   );
 };
