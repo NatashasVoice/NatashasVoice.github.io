@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
+
+* {
+    font-family: 'Newsreader', serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+body,
+div {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-top: 10px;
+}
